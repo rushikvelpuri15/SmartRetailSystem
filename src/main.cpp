@@ -321,7 +321,7 @@ int main()
        viewProducts();
 
        else if(choice==3)
-       deleteProduct();   // you still need to create this function
+       deleteProduct(); 
 
        else if(choice==4)
        addCustomer();
@@ -345,4 +345,5 @@ int main()
 }
 
     return 0;
+
 }
